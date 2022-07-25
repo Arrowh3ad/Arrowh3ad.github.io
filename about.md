@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Ruiyang Wu.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ruiyanglovemustang@gmail.com](mailto:ruiyanglovemustang@domain.com)
